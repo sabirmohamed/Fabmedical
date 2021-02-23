@@ -1,3 +1,3 @@
 # Fabmedical
 
-![Content-API](https://github.com/sabirmohamed/Fabmedical/.github/workflows/content-api.yml/badge.svg)
+![Content-API](https://github.com/sabirmohamed/Fabmedical/workflows/content-api.yml/badge.svg)
